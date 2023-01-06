@@ -1,0 +1,948 @@
+.container{
+    width: 100%;
+    height: 5891px;
+    background-color: rgb(0, 0, 0);
+    overflow-x:hidden;
+}
+body{
+    margin: 0;
+}
+.head{
+    width: 100%;
+    height: 90px;
+    background-color: aqua; 
+    border-bottom: 2px solid;
+    border-bottom-color: rgb(200 216 230);
+}
+.head1{
+    width: 50%;
+    height: 90px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+}
+.head2{
+    width: 50%;
+    height: 90px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+
+}
+.logoimg{
+    width: 138px;
+    height: 32px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: 29px;
+    left: 93px;
+}
+.image{
+    width: 138px;
+    height: 32px;
+}
+.headporp{
+    width: 280px;
+    height: 18px;
+    background-color: brown;
+    position: relative;
+    top: 32px;
+    left: 224px;
+}
+.headprop1{
+    width: 70px;
+    height: 18px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    
+}
+.propname{
+    font-size: 11px;
+    position: relative;
+    bottom: 6px;
+    margin-left: 2px;
+    font-family: 'Albert Sans', sans-serif;
+    font-weight: 600;
+}
+.propname3{
+    font-size: 11px;
+    position: relative;
+    bottom: 6px;
+    margin-left: 12px;
+    font-family: 'Albert Sans', sans-serif;
+
+    font-weight: 600;
+}
+.propname4{
+    font-size: 11px;
+    position: relative;
+    bottom: 6px;
+    margin-left: 29px;
+    font-family: 'Albert Sans', sans-serif;
+    font-weight:bold;
+}
+.propname2{
+    font-size: 11px;
+    position: relative;
+    bottom: 6px;
+    margin-left: 18px;
+    font-family: sans-serif;
+    font-weight: 600;
+
+}
+#searchicon{
+    position: relative;
+    bottom: 36px;
+    left: 121px;
+    font-size: 20px;
+    color: #828282;
+   
+}
+.saleevent{
+    width: 100%;
+    height: 556px;
+    background-color: blue;
+}
+.event{
+    width: 100%;
+    height: 556px;
+
+}
+.offer{
+    width: 100%;
+    height: 136px;
+    background-color: rgb(0, 0, 0);
+}
+.offersearch{
+    width: 327px;
+    height: 52px;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    position: relative;
+    top: 37px;
+    border-style: solid;
+    border-width: thin;
+    cursor: text;
+}
+#location{
+    position: relative;
+    top: 18px;
+    left: 9px;
+    font-size: 13px;
+}
+.eventsearch{
+    font-family: 'News Cycle', sans-serif;
+    font-size: 13px;
+    position: relative;
+    bottom: 11px;
+    left: 35px;
+    color: #484848;
+}
+#searchevent{
+    position: relative;
+    left: 295px;
+    bottom: 40px;
+    font-size: 14px;
+}
+.line{
+    background: #bbbbbb;
+    width: 1px;
+    height: 26px;
+    position: relative;
+    bottom: 64px;
+    left: 277px;
+}
+.see{
+    left: 587px;
+    text-decoration: none;
+    color: white;
+    position: relative;
+    top: 17px;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+.empty{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+}
+.tools{
+    width: 100%;
+    height: 142px;
+    background-color: rgb(255, 255, 255);
+}
+.shopping{
+    text-align: center;
+    font-size: 25px;
+    font-family: system-ui;
+    width: 100%;
+    height: 30px;
+    color: #424242;
+    background-color: rgb(255, 255, 255);
+}
+.car{
+    width: 111px;
+    height: 69px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    position: relative;
+    left: 479px;
+    top: 42px;
+    margin-left: 23px;
+}
+svg{
+    fill: rgb(102, 102, 102);
+    position: relative;
+    left: 14px;
+}
+.svgcar{
+    font-size: 12px;
+    font-family: system-ui;
+    position: relative;
+    left: 3px;
+    bottom: 3px;
+    font-weight: 500;
+    
+}
+.svgcar1{
+    font-size: 12px;
+    font-family: system-ui;
+    position: relative;
+    left: 12px;
+    bottom: 3px;
+    font-weight: 500;
+}
+.svgcar2{
+    font-size: 12px;
+    font-family: system-ui;
+    position: relative;
+    left: 34px;
+    bottom: 3px;
+    font-weight: 500;
+}
+.blank{
+    width: 100%;
+    height: 101px;
+    background-color: rgb(255, 255, 255);
+}
+.line2{
+    width: 97%;
+    height: 1px;
+    background-color: #ededed;
+    position: relative;
+    top: 50.5px;
+    left: 15px;
+
+}
+.currentoffer{
+    width: 100%;
+    height: 488px;
+    background-color:rgb(255, 255, 255) ;
+
+}
+.currenthead{
+    width: 100%;
+    height: 30px;
+    background-color: #ffffff;
+}
+.currentheadname{
+    text-decoration: none;
+    position: relative;
+    left: 466px;
+    font-size: 25px;
+    font-family: sans-serif;
+    color:  rgb(85 85 85);
+    ;
+    cursor: inherit;
+}
+.cars{
+    width: 396.33px;
+    height: 418px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin-left: 6px;
+    position: relative;
+    left: 62px;
+    top: 40px;
+    overflow: hidden;
+}
+.offerimg{
+    width: 396.33px;
+    height: 239.39px;
+    transition: transform 1s;
+    scale: 1;
+}
+
+.offerimg:hover{
+    transform: scale(1.1);
+}
+.offerbutton{
+    width: 220px;
+    height: 50px;
+    background-color: #ffffff;
+    position: relative;
+    top: 15px;
+    left: 90px;
+    border-width: thin;
+    border-style: solid;
+
+}
+.offerimghead{
+    font-size: 21px;
+    font-family: system-ui;
+    position: relative;   
+    padding-left: 108px;
+    top: 4px;
+    font-weight: 100;
+}
+.offerimghead1{
+    font-size: 21px;
+    font-family: system-ui;
+    position: relative;   
+    padding-left: 144px;
+    top: 4px;
+    font-weight: 100;
+}
+.offerimgtext{
+    font-family: system-ui;
+    font-size: 14px;
+    font-weight: 100;
+    padding-top: 2px;
+    padding-left: 29px;
+}
+.offerimgtext1{
+    font-family: system-ui;
+    font-size: 14px;
+    font-weight: 100;
+    padding-top: 2px;
+    padding-left: 102px;
+}
+.offerdiv{
+    width: 220px;
+    height: 50px;
+    background-color: white;
+    margin-left: 96px;
+    border-width: thin;
+    border-style: solid;
+    position: relative;
+    top: 12px;
+    border: solid 2px;
+}
+.seeoffers{
+    padding-left: 74px;
+    padding-top: 3px;
+    font-weight: bold;
+    font-family: system-ui;
+    font-size: 13px;
+}
+.explore{
+    width: 100%;
+    height: 794px;
+    background-color: rgb(255, 255, 255);
+}
+.explorehead{
+    width: 100%;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 26px;
+    font-family: system-ui;
+    font-weight: 400;
+    color: #313131 ;
+}
+.extra{
+    width: 100%;
+    height: 43px;
+    background-color: #ffffff;
+}
+.selection{
+    width: 100%;
+    height: 18px;
+    background-color: #ffffff;
+}
+.suv{
+    float: left;
+    margin-left: 30px;
+    position: relative;
+    left: 475px;
+    font-family: system-ui;
+    font-size: 12px;
+    font-weight: 600;
+    
+}.suv1{
+    float: left;
+    margin-left: 33px;
+    position: relative;
+    left: 474px;
+    font-family: system-ui;
+    font-size: 12px;
+    font-weight: 600;
+    padding-left: 0px;
+}
+.suv2{
+    float: left;
+    margin-left: 30px;
+    position: relative;
+    left: 471px;
+    font-family: system-ui;
+    font-size: 12px;
+    font-weight: 600;
+}
+.extra1{
+    width: 100%;
+    height: 22px;
+    background-color: #ffffff;
+}
+.collection{
+    width: 100%;
+    height: 112px;
+    background-color: #ffffff;
+}
+.types{
+    width: 130px;
+    height: 104px;
+    background-color: aqua;
+    float: left;
+    margin-left: 35px;
+}
+.imgtypes{
+width: 130px;
+height: 76px;
+background-color: #ffffff;
+}
+.ux{
+    width: 130px;
+    height: 76px;
+}
+.carname{
+width: 130px;
+height: 28px;
+background-color: #ffffff;
+float: left;
+}
+.name{
+    text-decoration: none;
+    color: black;
+    font-family: system-ui;
+    font-size: 13px;
+    font-weight: 600;
+    padding-left: 31px;
+    position: relative;
+    top: 8px;
+}
+.name1{
+    text-decoration: none;
+    color: black;
+    font-family: system-ui;
+    font-size: 13px;
+    font-weight: 600;
+    padding-left: 55px;
+    position: relative;
+    top: 8px;
+
+}
+.extra3{
+    width: 100%;
+    height: 20px;
+    background-color: #ffffff;
+}
+.elements{
+    width: 100%;
+    height: 549px;
+    background-color: white;
+
+}
+.elementsimg{
+    width: 100%;
+    height: 450px;
+    
+}.elementscar{
+    width: 1049px;
+    height: 1049px;
+    padding-left: 449px;
+    position: relative;
+    bottom: 899px;
+
+}
+.rximg{
+    width: 1049px;
+    background-color: aqua;
+    height: 1049;
+    margin-left: 300px;
+    position: relative;
+    bottom: 504px;
+}
+.car2023{
+    position: relative;
+    bottom: 420px;
+    left: 35px;
+    text-decoration: none;
+    font-family: system-ui;
+    font-size: 13px;
+    font-weight: 600;
+    color: black;
+
+}
+.rx500h{
+    font-size: 69px;
+    color: black;
+    position: relative;
+    bottom: 362px;
+    font-family: system-ui;
+    right: 29px;
+    font-weight: 600;
+}
+.starting{
+    color: black;
+    text-decoration: none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 100;
+    position: relative;
+    bottom: 359px;
+    left: 35px;
+    font-size: 13px;
+}
+.price{
+    text-decoration: none;
+    color: black;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 100;
+    position: relative;
+    bottom: 361px;
+    left: 33px;
+    font-size: 36px;
+
+
+}
+.count{
+    text-decoration: none;
+    color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 100;
+    position: relative;
+    bottom: 370px;
+    font-size: 8px;
+    left: -910px;
+}
+.button1{
+    width: 220px;
+    height: 50px;
+    background-color: #000000;
+    float: left;
+    position: relative;
+    bottom: 303px;
+    margin-left: 40px;
+
+}
+.explore1{
+    font-family: system-ui;
+    font-size: 13px;
+    font-weight: 700;
+    padding-left: 76px;
+    padding-top: 4px;
+    color: white;
+}
+.build{
+    font-family: system-ui;
+    font-size: 13px;
+    font-weight: 700;
+    padding-left: 91px;
+    padding-top: 4px;
+    color: white;
+
+}
+.color{
+    width: 46px;
+    height: 46px;
+    background-color: #424242;
+    float: left;
+    position: relative;
+    right: 488px;
+    bottom: 135px;
+    margin-left: 7px;
+   
+}
+.color1{
+    width: 46px;
+    height: 46px;
+    
+}
+.white{
+    font-size: 12px;
+    font-family: system-ui;
+    position: relative;
+    right: 905px;
+    bottom: 108px;
+    font-weight: 500;
+}
+.future{
+    width: 100%;
+    height: 524px;
+    background-color: rgb(255, 255, 255);
+}
+.limitededition{
+    width: 100%;
+    height: 30px;
+   background-color: rgb(255, 255, 255);
+   text-align: center;
+}
+.futureedition{
+    color: black;
+    text-decoration: none;
+    position: relative;
+    right: 486px;
+    font-family: system-ui;
+    font-size: 22px;
+
+}
+.luxuscare{
+    width: 443px;
+    top: 46px;
+    height: 445px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin-left: 6px;
+    position: relative;
+    right: 3px;
+    padding-top: 0px;
+}
+.half{
+    width: 443px;
+    height: 219px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 7px;
+    position: relative;
+    bottom: 7px;
+
+}
+.boxes{
+    width: 443px;
+    height: 445px;
+}
+.smallbox{
+    height: 219px;
+    width: 443px;
+
+}
+.GX{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 900;
+    font-size: 14px;
+    text-align: center;
+    position: relative;
+    bottom: 129px;
+    color: white;
+}
+.gxdiv{
+    width: 220px;
+    height: 50px;
+    background-color: white;
+    margin: auto;
+    position: relative;
+    bottom: 122px;
+    border-style: solid;
+    border-color: white;
+}
+.learnmore{
+    text-align: center;
+    padding-top: 4px;
+    font-family: system-ui;
+    font-weight: 900;
+    font-size: 13px;
+    color: rgb(0, 0, 0);
+}
+.GX1{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 900;
+    font-size: 14px;
+    text-align: center;
+    position: relative;
+    bottom: 122px;
+    color: white;
+}
+.futureedition1{
+    color: black;
+    text-decoration: none;
+    position: relative;
+    right: 486px;
+    font-family: system-ui;
+    font-size: 24px;
+    padding-left: 964px;
+}
+.GX2{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 900;
+    font-size: 14px;
+    text-align: center;
+    position: relative;
+    bottom: 122px;
+    color: white;
+
+}
+.lastdiv{
+    width: 100%;
+    height: 435px;
+    background-color: rgb(255, 255, 255);
+
+}
+.lastdiv1{
+    width: 390px;
+    height: 393px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    position: relative;
+    margin-left: 7px;
+    left: 76px;
+    top: 42px;
+}
+.lastimg{
+    width: 390px;
+    height: 239px;
+}
+.lasttext{
+    font-size: 20px;
+    font-family: system-ui;
+    font-weight: 100;
+    text-align: center;
+}
+.lastdiv2{
+    width: 220px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    position: relative;
+    top: 20px;
+    border-style: solid;
+}
+.lastname{
+    font-size: 14px;
+    font-family: system-ui;
+    font-weight: 700;
+    text-align: center;
+}.extrablank{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+}
+.footerfirst{
+    width: 100%;
+    height: 129px;
+    background-color:#f3f3f3;
+}
+.footerlast{
+   
+    width: 100%;
+    height: 815px;
+
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    
+}
+.footerfirst1{
+    width: 889px;
+    height: 74px;
+    background-color:#f3f3f3;
+    margin: auto;
+    position: relative;
+    top: 27px;
+}
+.footerfirst1head{
+    font-size: 14px;
+    font-family: system-ui;
+    text-decoration: none;
+    color: #343434;
+    font-weight: 100;
+    
+}
+.recall{
+    color: black;
+    font-size: 12px;
+    font-family: system-ui;
+    font-weight: 700;color: black;
+    font-size: 12px;
+    font-family: system-ui;
+    font-weight: 800;
+    position: relative;
+    left: 380px;
+    top: 14px;
+}
+
+
+.footertexts{
+    width: 1200px;
+    height: 715px;
+    background-color: blueviolet;
+    margin: auto;
+    position: relative;
+    top: 36px;
+}
+.privacy{
+    width: 1200px;
+    height: 18px;
+    background-color: rgb(0, 0, 0);
+}
+.privacytext{
+    font-size: 11px;
+    font-family: system-ui;
+    color: rgb(182, 161, 113);
+    position: relative;
+    left: 619px;
+}
+.privacyimg{
+    position: relative;
+    left: 618px;
+    top: 2px;
+}
+.about{
+    width: 1200px;
+    height: 546px;
+    background-color: cadetblue;
+    margin: auto;
+}
+.contact{
+    width: 300px;
+    height: 516px;
+    background-color: rgb(0, 0, 0);
+    float: left;
+}
+.extra4{
+    width: 100%;
+    height: 32px;
+    background-color: rgb(0, 0, 0);
+}
+
+.lastfirst{
+    position: relative;
+    font-family: system-ui;
+    font-size: 11px;
+    font-weight: 700;
+    margin-top: 15px;
+    color: white;
+
+}
+.extra5{
+    width: 1200px;
+    height: 30px;
+    background-color: rgb(0, 0, 0);
+
+}
+.halfcontact{
+    width: 299px;
+    height: 233px;
+    background-color: rgb(0, 0, 0);
+}
+ .halfcontact1{
+    width: 299px;
+    height: 283px;
+     background-color: rgb(0, 0, 0);
+ }
+ .finance{
+    font-size: 11px;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    font-family: system-ui;
+ }
+.finance1{
+    font-size: 10px;
+    font-family: system-ui;
+    font-weight: 500;
+    color: white;
+}
+.contact1{
+    width: 300px;
+    height: 516px;
+    background-color: rgb(0, 0, 0);
+    float: left;
+}
+.socialmedia{
+    width: 25px;
+    height: 25px;
+    background-color: rgb(0, 0, 0);
+    float: left;
+    margin-left: 1px;
+
+}
+#facebook{
+    font-size: 19px;
+    position: relative;
+    top: 3px;
+    color: white;
+    left: 3px;
+}
+#twitter{
+    font-size: 16px;
+    position: relative;
+    top: 6px;
+    color: white;
+    left: 5px;
+}
+#youtube{
+    font-size: 15px;
+    position: relative;
+    top: 5px;
+    color: white;
+    left: 4px;
+
+}
+#instagram{
+    font-size: 16px;
+    position: relative;
+    top: 5px;
+    color: white;
+    left: 6px;
+
+
+}
+#pintrest{
+    font-size: 16px;
+    position: relative;
+    top: 5px;
+    color: white;
+    left: 4px;
+}
+#tiktok{
+    font-size: 17px;
+    position: relative;
+    top: 4px;
+    color: white;
+    left: 4px;
+
+}
+.final{
+    width: 1200px;
+    height: 101px;
+    background-color: rgb(0, 0, 0);
+    margin: auto;
+
+}
+.finaltext{
+    width: 1200px;
+    height: 51px;
+    background-color: rgb(0, 0, 0);
+    margin: auto;
+}
+.finalhead{
+    position: relative;
+    left: 510px;
+    font-size: 11px;
+    font-weight: bolder;
+    color: white;
+    font-family: sans-serif;
+}
+.finalfooter{
+    font-family: unset;
+    font-size: 11px;
+    text-decoration: none;
+    padding-left: 7px;
+    color: #989898;
+}
+.finalfooter1{
+    font-family: unset;
+    font-size: 11px;
+    text-decoration: none;
+    padding-left: 7px;
+    position: relative;
+    bottom: 2px;
+    left: 445px;
+    color:#989898;
+
+}
