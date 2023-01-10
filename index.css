@@ -134,6 +134,7 @@ body{
     position: relative;
     bottom: 11px;
     left: 35px;
+    width: 77px;
     color: #484848;
 }
 #searchevent{
@@ -600,8 +601,8 @@ float: left;
     background-color: rgb(255, 255, 255);
     float: left;
     margin-left: 6px;
-    position: relative;
-    right: 3px;
+    margin-top: 43px;
+
     padding-top: 0px;
 }
 .half{
